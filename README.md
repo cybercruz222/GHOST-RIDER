@@ -1,5 +1,5 @@
 <div align="center">
-	<h3>👧🏻GHOST-RIDER-MD WHATSAPP BOT👧🏻</h3>
+	<h3>👧🏻GHOST_RIDER-MD WHATSAPP BOT👧🏻</h3>
 <a href="https://ibb.co/wBBKGBj"><img src="https://i.ibb.co/9ccqKcS/1733730955674.jpg" alt="1733730955674" border="0"></a>
 </div>
 <p align="center">
@@ -233,7 +233,7 @@ jobs:
 
 | TCRONEB HACKX 👤              | CYBER SPACE 👤              | CRUZ THE TRADER 👤            |
 |---------------------|---------------------|---------------------|
-[![Owner](https://i.ibb.co/q9pChng/IMG-20240924-WA0019.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa) | [![Sadeepa](https://i.ibb.co/ZK5mwt3/IMG-20241019-WA0005.jpg)](https://github.com/sadiyamin/Alexa/) |
+[![Owner](https://i.ibb.co/q9pChng/IMG-20240924-WA0019.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa) | [![Cruz]([https://i.ibb.co/v4ZjktG/20241201-141703.jpg](https://github.com/sadiyamin/Alexa/) |
 | DEVELOPER & FOUNDER | GRAPHICS AND JAVASCRIPT  | BUG TESTER |
 </div>
 <hr>
